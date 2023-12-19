@@ -2,5 +2,5 @@
 
 I'm learning ds
 
--Intro to ds
--SQL
+- Intro to ds
+- SQL
